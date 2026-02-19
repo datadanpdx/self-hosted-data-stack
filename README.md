@@ -8,4 +8,12 @@ This repository documents my experiments and architecture patterns for building 
 - Reverse proxy (Caddy)
 - DigitalOcean infrastructure
 
-This repo will evolve as I refine patterns for automation, data workflows, and small-scale production systems.
+## Purpose
+
+This repo serves as:
+
+- A portfolio artifact
+- A reference implementation
+- A working lab for automation and data workflows
+
+More details and architecture diagrams coming soon.
