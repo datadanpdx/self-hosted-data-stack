@@ -16,8 +16,6 @@ This repo serves as:
 - A reference implementation
 - A working lab for automation and data workflows
 
-More details and architecture diagrams coming soon.
-
 ## Planned Sections
 
 - Docker Compose baseline template
