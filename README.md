@@ -17,3 +17,11 @@ This repo serves as:
 - A working lab for automation and data workflows
 
 More details and architecture diagrams coming soon.
+
+## Planned Sections
+
+- Docker Compose baseline template
+- PostgreSQL initialization scripts
+- Workflow automation example (n8n)
+- Reverse proxy configuration notes
+- Deployment checklist
